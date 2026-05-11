@@ -53,7 +53,7 @@ Key dependencies:
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set Kaggle API credentials (for automatic dataset download)
-4. Run the Jupyter notebook: `jupyter notebook TP5.ipynb`
+4. Run the Jupyter notebook: `jupyter notebook clinical-ml-heart-disease.ipynb`
 
 ## 📈 Key Findings
 
